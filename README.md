@@ -1,6 +1,7 @@
-# -Metrics-for-Evaluating-Class-Activation-Mapping-Techniques
+#Metrics-for-Evaluating-Class-Activation-Mapping-Techniques
 
-**Abstract
+**Abstract**
+
 Over the last few years, many complicated computer vision problems have been solved successfully
 using state-of-the-art Convolutional Neural Networks(CNN). It is always hard to understand the
 inner functioning of deep models like CNN during their inference. Many recent works have shown
@@ -17,5 +18,9 @@ in the model’s prediction. We experiment and compare the four different CAM me
 datasets in this work to determine that the proposed metrics are suitable for evaluating CAM-based
 methods and allow better interpretation when compared to the current metrics.
 
-[1] --Aditya Chattopadhyay, Anirban Sarkar, Prantik Howlader, and Vineeth N. Balasubramanian. Grad-cam++:
+[1] -- Aditya Chattopadhyay, Anirban Sarkar, Prantik Howlader, and Vineeth N. Balasubramanian. Grad-cam++:
 Generalized gradient-based visual explanations for deep convolutional networks. CoRR, abs/1710.11063, 2017.
+
+
+*Function folder* -- utility method needed for the main code
+*Main folder* -- contains main code for evaluating class activation mappping techniques
