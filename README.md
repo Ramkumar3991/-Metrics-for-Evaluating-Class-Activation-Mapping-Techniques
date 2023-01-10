@@ -1,4 +1,4 @@
-#Metrics-for-Evaluating-Class-Activation-Mapping-Techniques
+***Metrics-for-Evaluating-Class-Activation-Mapping-Techniques***
 
 **Abstract**
 
@@ -22,5 +22,5 @@ methods and allow better interpretation when compared to the current metrics.
 Generalized gradient-based visual explanations for deep convolutional networks. CoRR, abs/1710.11063, 2017.
 
 
-*Function folder* -- utility method needed for the main code
+*Function folder* -- utility method needed for the main code.
 *Main folder* -- contains main code for evaluating class activation mappping techniques
